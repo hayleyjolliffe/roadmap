@@ -30,3 +30,7 @@ I aim to keep my tools simple and opinionated where possible. This particular pr
 While I'm in the Apple ecosystem, iCloud handles file-syncing between my devices fairly well.
 
 ## Activity
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|-----|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |     |
