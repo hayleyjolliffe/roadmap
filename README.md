@@ -32,4 +32,4 @@ For more on why I work this way, Steph Ango describes it fairly well [here](http
 
 Unless otherwise stated, all files and content in this repository are copyright Hayley Jolliffe. You may not use anything without my permission.
 
-The roadmap structure is MIT Licensed and can be used freely. For the MIT-licensed Obsidian vault template, see [here](https://github.com/hayleyjolliffe/roadmap-obsidian).
+The roadmap structure is MIT Licensed and can be used freely. Try the system for yourself [here](https://github.com/hayleyjolliffe/roadmap-obsidian).
