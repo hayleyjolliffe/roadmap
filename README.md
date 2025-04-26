@@ -24,6 +24,10 @@ My files are entirely my own, so if any of these tools/services were to cease fu
 
 For more on why I work this way, Steph Ango describes it fairly well [here](https://stephango.com/file-over-app).
 
+## Why Public?
+
+**Progress beats perfection. Default to action.** I fall into the perfectionism trap far too often. By defaulting to (public) action, I'm holding myself accountable while getting better at building in public.
+
 ## License
 
 Unless otherwise stated, all files and content in this repository are copyright Hayley Jolliffe. You may not use anything without my permission.
