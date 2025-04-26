@@ -1,36 +1,31 @@
-# 2025 Roadmap
+This system is a living document designed to evolve as I progress through 2025. It draws from the [GTD](https://gettingthingsdone.com), [Johnny Decimal](https://johnnydecimal.com), and [Bullet Journal](https://bulletjournal.com) systems for an intuitive, minimalist approach to tracking progress and achieving goals.
 
-This system is a living document designed to evolve as I progress through 2025. It contains my high-level goals for the year, and gets more granular with quarterly, monthly, weekly, and daily breakdowns and progress tracking. It also includes modular templates and all working documents associated with my life design plan.
+The system contains my high-level goals and alignment checks for the year, and becomes more granular with quarterly, monthly, weekly, and daily breakdowns to measure progress.
 
-This system is written in Markdown and structured to work seamlessly with my [daily stack](#stack), allowing for flexibility as it evolves.
+Try the system for yourself [here](https://github.com/hayleyjolliffe/roadmap-obsidian).
 
-## Purpose
+## Guiding Principles
 
-- Align with my values and long-term goals
-- Track progress across multiple areas of life and work
-- Run focused quarters with clear priorities and systems
-- Document my full process, ultimately what works and what doesn't
-- Centralize planning for easier access within my personal ecosystem
+This system is designed with my personal guiding principles in mind:
 
-## Structure
+- **Be aggressive when your decisions are reversible; be cautious when they are not.** (Thanks, [Ramp](https://engineering.ramp.com/post/engineering-principles)!)
+- **Do more with less.**
+- **Progress beats perfection. Default to action.**
+- **Don't outsource your self-worth.**
+- **If it's not helping your goals, it's hurting them.**
 
-### [01_North-Star]()
+## Dependencies
 
-### [02_Quarters]()
+I aim to prioritize file ownership wherever possible, and minimize my dependence on proprietary technology and filetypes. This roadmap is comprised of Markdown files exclusively, which I use [Obsidian](https://obsidian.md) to view and edit.
 
-### [03_Tracking]()
+I've opted to document my roadmap progress publicly using GitHub. While I'm in the Apple ecosystem, iCloud serves me quite well for cloud storage and syncing files between devices.
 
-### [04_Templates]()
+My files are entirely my own, so if any of these tools/services were to cease functioning, I could simply upload my files to the next tool of choice with minimal hassle.
 
-## Stack
-I prioritize file ownership wherever possible, and aim to mitigate dependence on proprietary technologies. More on this [here](https://stephango.com/file-over-app).
+For more on why I work this way, Steph Ango describes it fairly well [here](https://stephango.com/file-over-app).
 
-I aim to keep my tools simple and opinionated where possible. This particular project only uses [Obsidian](https://obsidian.md) and GitHub (including Projects and Pages).
+## License
 
-While I'm in the Apple ecosystem, iCloud handles file-syncing between my devices fairly well.
+Unless otherwise stated, all files and content in this repository are copyright Hayley Jolliffe. You may not use anything without my permission.
 
-## Activity
-
-| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|-----|-----|-----|-----|-----|-----|-----|
-|     |     |     |     |     |     |     |
+The roadmap structure is MIT Licensed and can be used freely. For the MIT-licensed Obsidian vault template, see [here](https://github.com/hayleyjolliffe/roadmap-obsidian).
