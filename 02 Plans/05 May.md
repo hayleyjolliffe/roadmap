@@ -1,0 +1,15 @@
+- Get 9-5, transition out of freelance
+- Begin next Project 50 cycle
+- Get caught up on Duolingo units
+	- How far ahead can I work this month?
+- Clean out, set up cold plunge for the season
+- Configure Jekyll files for website
+- Domain renews, check host for exact date
+- List Pokemon bulk and smaller singles on eBay
+- Research best road running shoes for my body/foot shape
+- Clean up side yard
+	- Set up workout area
+- Set up Lemon Squeezy shop
+- Document work/progress daily on X
+- Batch schedule a ton of pins
+- Start blogging again? I miss it a lot
