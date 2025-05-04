@@ -3,7 +3,7 @@
 - Get caught up on Duolingo units
 	- How far ahead can I work this month?
 - Clean out, set up cold plunge for the season
-- Configure Jekyll files for website
+- ~~Configure Jekyll files for website~~
 - Domain renews 30 May, CAD$38.41
 - List Pokemon bulk and smaller singles on eBay
 - Research best road running shoes for my body/foot shape
@@ -13,4 +13,4 @@
 - Set up Lemon Squeezy shop
 - Document work/progress daily on X
 - Batch schedule a ton of pins
-- Start blogging again? I miss it a lot
+- ~~Start blogging again? I miss it a lot~~
