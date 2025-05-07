@@ -25,3 +25,4 @@ I am someone who...
 - [Morgan Olson](https://momomuscle.com)
 - [Nick Bare](https://nickbare.com)
 - [Cal Newport](https://calnewport.com)
+- [Matt D'Avella](https://www.youtube.com/@mattdavella)
